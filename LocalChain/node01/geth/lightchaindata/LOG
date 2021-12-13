@@ -1,0 +1,8 @@
+=============== Oct 28, 2021 (CST) ===============
+05:24:49.632534 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:24:49.931118 db@open opening
+05:24:49.932543 version@stat F·[] S·0B[] Sc·[]
+05:24:50.088604 db@janitor F·2 G·0
+05:24:50.088630 db@open done T·157.495937ms
+05:24:50.090243 db@close closing
+05:24:50.090393 db@close done T·162.197µs
