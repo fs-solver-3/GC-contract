@@ -108,3 +108,5 @@ cache
 secrets.json
 
 .pem
+package-lock.json
+yarn-lock
